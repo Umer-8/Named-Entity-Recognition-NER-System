@@ -36,6 +36,4 @@ Google -> ORG (confidence: 0.99)
 - `extract_entities()` prints every entity found in a piece of text in `word -> TYPE` format
 - `run_cli()` lets you keep entering new sentences until you type "exit"
 
-No bonus features included (no dbmdz/bert-large-cased-finetuned-conll03-english override,
-colored highlighting, Streamlit dashboard, spaCy comparison, CSV export, or confidence
-filtering) per request.
+
